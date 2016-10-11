@@ -1,0 +1,27 @@
+<style type="text/css">
+* {
+    font-family: "Noto Sans", "Noto Sans CJK TC", "Microsoft JhengHei",
+                 "sans-serif";
+}
+#Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 45px;
+    width: 100%;
+    background-color: rgba(0, 128, 255, 0.7);
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 26px;
+}
+
+#Body {
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.content {
+    padding-top: 15px;
+    font-size: 30px;
+}
