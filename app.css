@@ -21,7 +21,26 @@
     padding: 20px;
 }
 
+#Menu {
+    padding: 20px;
+    font-size: 24px;
+    cursor: pointer;
+    width: 300px;
+}
+
+#Menu a {
+    display: none;
+    padding: 20px;
+    font-size: 24px;
+    width: 300px;
+    float: left;
+}
+                                    
 .content {
     padding-top: 15px;
     font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
 }
